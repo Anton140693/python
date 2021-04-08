@@ -1,3 +1,5 @@
+# Задание №1
+
 # Вариант a)
 duration = int(input('Введите количество секунд: '))
 s = str(duration)
@@ -25,3 +27,7 @@ h = str((duration // 3600) % 24)
 m = str((duration //60) % 60)
 s = str(duration % 60)
 print(d + ' дн ' + h  + ' час ' + m + ' мин ' + s + ' сек ')
+
+
+# Задание №2
+
